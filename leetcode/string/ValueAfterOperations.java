@@ -1,9 +1,7 @@
-package leetcode.string
+package leetcode.string;
 
-/**
- * ValueAfterOperations
- */
 public class ValueAfterOperations {
+
 
     public int finalValueAfterOperations(String[] operations) {
         
@@ -22,3 +20,4 @@ public class ValueAfterOperations {
         
     }
 }
+
