@@ -3,14 +3,14 @@ Collections of Algorithms and Data Structures (@'U')?
 
 
 
-#Data Structures
+# Data Structures
 
-#Arrays
+# Arrays
 
-#Stacks
+# Stacks
 
-#Queues
+# Queues
 
-#BST
+# BST
 
-#Dynammic Programming
+# Dynammic Programming
